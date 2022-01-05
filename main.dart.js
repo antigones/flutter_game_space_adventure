@@ -47636,7 +47636,7 @@ case 2:s=3
 return A.a4(q.gcl().uk("asteroid.png"),$async$bH)
 case 3:q.y2=c
 p=q.dx.d
-p.dz(0,75+B.dB.Cn(B.d.aZ(q.gcl().bn.a[0])-80))
+p.dz(0,75+B.dB.Cn(B.d.aZ(q.gcl().bn.a[0])-150))
 p.T()
 p.dA(0,40)
 p.T()
